@@ -25,7 +25,7 @@ This is a fully functional chat application that has been converted from JavaScr
 
 1. Navigate to the project directory:
    ```bash
-   cd "d:\Downloads\New folder (3)"
+   cd "d:\Downloads\Elyxar-Ai"
    ```
 
 2. Start the PHP development server:
